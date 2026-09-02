@@ -32,3 +32,11 @@ npm-debug.log*
 dist/
 build/
 .cache/
+tmp/
+outputs/
+output/mops_financials_sample/
+output/mops_financials_integration/
+output/mops_financials_latest/
+output/mops_bulk_validation/
+output/mops_financials_full/raw_cache/
+*.stackdump
